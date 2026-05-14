@@ -1,0 +1,1 @@
+Just stuff I am playing around with as I think about notebook design.  The "vertical_lines*.pdf" files were created so that when folded as a quarto (short edge to short edge, and then new long edge to new long edge) and then trimmed at the top (new short edge when folded), a four-page booklet with verical lines is produced.  This can be stapled or sewn on the spine.
