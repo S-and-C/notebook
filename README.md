@@ -1,5 +1,5 @@
 Just stuff I am playing around with as I think about notebook design.  The "vertical_lines*.pdf" files were created so that when folded as a quarto (short edge to short edge, and then new long edge to new long edge) and then trimmed at the top (new short edge when folded), a four-page booklet with verical lines is produced.  This can be stapled or sewn on the spine.
-1. Print landscape, two-sided, flip on short edge.  If you want a four-page booklet, print 1 copy.  For eight-page booklet, print 2 copies, and so on.
+1. Print landscape, two-sided, flip on short edge.  If you want an 8-page booklet, print 1 copy.  For a 16-page booklet, print 2 copies, and so on.
 2. Fold short edge to short edge.
 3. Fold the new long edge to new long edge.  This will be the spine.
 4. Staple or sew the booklet together, if desired.
