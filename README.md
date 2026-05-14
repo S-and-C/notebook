@@ -7,4 +7,6 @@ Just stuff I am playing around with as I think about notebook design.  The "vert
 6. If you use A4 paper, the booklet will be almost A6 (because of trimming).
 7. Open the booklet and spin it 90° clockwise.  You now have an A5 (almost) lined writing space.
 
+The "horizontal_line*.pdf" files are intended for A7-ish files using octavo folds.  Long edge to long edge, then short edge to short edge, and short edge to short edge again.
+
 Credit for the layout idea goes to u/sardonicoperasinger on Reddit.
